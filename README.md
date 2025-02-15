@@ -1,6 +1,5 @@
 # LMStudio
-##متن فارسی:
-
+# متن فارسی
 دوستان توجه داشته باشید که **مدل‌های بالای 14 میلیارد پارامتر (14b)** حتی روی قوی‌ترین کامپیوترهای شخصی با آخرین سخت‌افزارهای روز دنیا، مانند پردازنده‌های قدرتمند **Intel Core i9 نسل ۹ تا ۱۴** یا **Xeon با ۸۰ هسته** (دو پردازنده ۴۰ هسته‌ای به صورت موازی) و کارت گرافیک **RTX 3090 با ۱۰,۰۰۰ هسته و حدود ۳۵۰ تنسور کور**، **جوابگو نیستند**. حتی اگر VRAM سیستم شما اجازه بارگذاری مدل‌های بزرگتر مانند **مدل‌های ۳۲ میلیارد پارامتر (32b)** را بدهد، باز هم **نتایج مطلوبی دریافت نخواهید کرد**.
 
 بنابراین، **هزینه‌های گزاف برای ارتقاء سیستم‌های شخصی بی‌معنی است**، زیرا این سیستم‌ها قادر به مدیریت مدل‌های بالای ۱۴ میلیارد پارامتر نیستند. برای اجرای چنین مدل‌هایی، به **سیستم‌هایی با چندین پردازنده گرافیکی قدرتمند** نیاز است که معمولاً در اختیار **دیتاسنترها و سازمان‌های بزرگ** قرار دارند.
@@ -11,7 +10,7 @@
 
 ---
 
-متن انگلیسی:##
+# متن انگلیسی:
 
 Dear friends, please note that **models with over 14 billion parameters (14b)** cannot be efficiently run even on the most powerful personal computers equipped with the latest hardware, such as high-end **Intel Core i9 processors (9th to 14th gen)** or **Xeon processors with up to 80 cores** (two 40-core processors in parallel) and a **GeForce RTX 3090 GPU with 10,000 cores and around 350 tensor cores**. Even if your system's VRAM allows you to load larger models, such as **32 billion parameter models (32b)**, you **will not achieve the desired results**.
 
